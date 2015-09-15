@@ -14,7 +14,7 @@ to express formatting such as emphasis, bulleted lists, etc.
 
 File names containing help text have `.md` as the filename suffix.  This lets the editor and other tooling in the system know that the file contains Markdown text.
 
-The full path to a help text file is used by the Summit build system to associate fields and other UI components with the appropriate help text.  For example, the help file text at `summit/proposals/editor/generalInformation/proposalLabel.md` contains the help text for the **Proposal Label* in the proposal editor.
+The full path to a help text file is used by the Summit build system to associate fields and other UI components with the appropriate help text.  For example, the help file text at `summit/proposals/editor/generalInformation/proposalLabel.md` contains the help text for the **Proposal Label** in the proposal editor.
 
 When writing help text, your editor should be set to wrap automatically at the right margin.  You should use the `Return` key only to separate paragraphs.
 
