@@ -46,6 +46,6 @@ A description of the type of work.  If more than one description fits, use the t
 
 **/summit/proposals/initiator/details/programType.ln**
 ```
-../../generalInformation/programType.md
+../../editor/generalInformation/programType.md
 ```
 - In order to get the `generalInformation` folder from the `details` folder, we have to navigate up two directories (`../../`).
