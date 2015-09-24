@@ -1,0 +1,1 @@
+When the indirect distribution will differ from the default distribution for the submitting organization on a project.  Answering "Yes" will require further information, to be completed later, on the nature of the special distribution

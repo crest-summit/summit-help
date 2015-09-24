@@ -1,0 +1,1 @@
+An entity receiving funding under a sponsored project in order to perform an essential and significant function of the research as a key person contributing to the deliverables and participating in the design, conduct and reporting of the research.

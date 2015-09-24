@@ -1,0 +1,1 @@
+The one person designated to be responsible for the scientific or technical direction of the project and is accountable for the proper conduct of the project.  See OSP website for information on who may serve as a PI.

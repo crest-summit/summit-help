@@ -1,0 +1,1 @@
+When a Fund will be set up under the Grant for the purposes of separately managing a portion of the award funding.  If the answer is "Yes,"   describe the nature of the subfunds in the Budget Details or attached Budget Documents.
