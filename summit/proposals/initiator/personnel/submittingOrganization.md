@@ -1,0 +1,1 @@
+The VT 6 digit organization number receiving credit for submitted proposal.  This may also be the organization responsible for financial management of any resulting award.  It does not have to be the PI’s home organization.
