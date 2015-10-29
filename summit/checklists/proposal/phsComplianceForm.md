@@ -1,0 +1,1 @@
+For all PHS Sponsors or PHS Flow-through Sponsors, the PI must review and sign the PHS Compliance Form.  This form is sent to the PI automatically when the Pre-Award Administrator marks the proposal as PHS Notification Type.

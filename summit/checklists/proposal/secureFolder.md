@@ -1,0 +1,1 @@
+If the proposal has been marked in the Submission Information section to contain Export Control and/or Classified Research, OSP is required to store the files in a secure location and to notify the Office of Export and Secure Research Compliance (OESRC).
