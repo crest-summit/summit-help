@@ -1,0 +1,1 @@
+The department or center organizational code responsible for meeting this Cost Share commitment. If costs are to be shared by two sources of funding, they must be itemized separately by source.  For example, if the salary is split between two departments, add a responsible org and show the salary and fringes for which each organization is responsible.

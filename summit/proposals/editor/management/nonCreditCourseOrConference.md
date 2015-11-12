@@ -1,0 +1,1 @@
+The Continuing Education Center assists faculty and staff with the budgeting, coordination, and administration of non-credit courses and conferences.  If either is involved, please contact the Continuing Education Center
