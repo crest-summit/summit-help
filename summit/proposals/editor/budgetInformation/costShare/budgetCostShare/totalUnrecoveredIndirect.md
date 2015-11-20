@@ -1,0 +1,1 @@
+Indirect that is calculated on the Costs being charged to the sponsor that is either not allowed by the sponsor or being waived by VT.  Note: If sponsor requires a reduced indirect or does not allow indirect on the budget, sponsor must approve that unrecovered indirect to be used as cost share.
