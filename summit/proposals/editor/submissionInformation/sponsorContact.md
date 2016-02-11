@@ -1,0 +1,1 @@
+The contact information for the person at the sponsor to which any proposal questions should be directed or to whom the proposal will be submitted.  This is an optional field and need not be completed unless the proposal is being submitted via email or hardcopy or if a cover letter is needed for electronic submissions.

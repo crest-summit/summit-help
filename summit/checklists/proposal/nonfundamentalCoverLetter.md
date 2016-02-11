@@ -1,1 +1,1 @@
-If the PI has answered "No," the research is not fundamental research, the standard "non-fundamental research language" must be included in a cover letter to the sponsor.
+If the PI has answered "No," the research is not fundamental research, language will be included in a cover letter to DoD Sponsors or DoD Flow-Through Sponsors that states the research is Fundamental and should fall under the guidance of DOD Policy Memo on Fundamental Research.  See OSP Policy 29-05 Att A
