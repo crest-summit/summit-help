@@ -1,0 +1,1 @@
+Sponsor requirement for hard copy delivery.  Indicate if the Sponsor Deadline date is the date by which the Sponsor much have received the proposal or the date by which the proposal must be postmarked.  N/A should be used for all electronic proposal submission methods.

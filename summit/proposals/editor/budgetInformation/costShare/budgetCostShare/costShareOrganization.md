@@ -1,0 +1,1 @@
+If costs are to be shared by two  sources of funding, they must be itemized separately by source.  For example, if a $50K piece of equipment is to be jointly purchased by two departments, include a $25K purchase by each organization.

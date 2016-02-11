@@ -1,0 +1,1 @@
+Indirect costs are any cost not directly identified with a single sponsored agreement, and are those expenses incurred to maintain the university and research labs as a whole and as a result support many projects. Indirect costs are also referred to as “overhead,” “facilities & administration” or “F&A.”

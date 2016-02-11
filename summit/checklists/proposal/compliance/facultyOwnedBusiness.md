@@ -1,0 +1,1 @@
+Any corporation, partnership, sole proprietorship, firm, franchise, association, trust or foundation, or any other individual or entity carrying on a business or profession, whether or not for profit in which an employee, employee’s spouse or dependent children have a significant financial interest

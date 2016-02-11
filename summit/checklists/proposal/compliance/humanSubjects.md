@@ -1,0 +1,1 @@
+Human subject is defined as a living individual about whom an investigator conducting research obtains (1) data through intervention or interaction with the individual, or (2) identifiable private information. Also check if analyzing coded or anonymized data, tissues, body fluids, or cells. See http://www.ibc.researchcompliance.vt.edu for more information
