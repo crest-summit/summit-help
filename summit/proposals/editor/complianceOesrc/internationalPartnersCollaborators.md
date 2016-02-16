@@ -1,3 +1,2 @@
-Any foreign corporation, business association, partnership, trust, society or any other entity or group that is not incorporated or organized to do business in the United States, as well as international organizations, foreign governments and any agency or subdivision of foreign governments (e.g., diplomatic missions).
-
-Note: OESRC must be provided with the name(s) of the collaborators, where they are from, and what the scope of work will be. 
+- International Partners / Collaborators: Any foreign corporation, business association, partnership, trust, society or any other entity or group that is not incorporated or organized to do business in the United States, as well as international organizations, foreign governments and any agency or subdivision of foreign governments (e.g., diplomatic missions).  Note: OESRC must be provided with the name(s) of the collaborators, where they are from, and what the scope of work will be.
+- Foreign National: Any person who is not a U.S. Citizen, lawful permanent resident or protected individual (refugee, granted asylum, etc.).
