@@ -1,1 +1,1 @@
-A description of the Third Party relationship.
+A description of direct line item to be cost shared
