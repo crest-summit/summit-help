@@ -1,4 +1,1 @@
-Justification must answer the following questions:
-
- - How is the computer necessary to fulfill the project’s scope of work?
- - How does the computer go beyond normal use in day-to day operations of the laboratory?
+This includes any desktop client computers or components, mainframe computers and components, laptops or notebooks, handheld computer devices and other computer equipment such as printers, kiosks, scanners, network interface cards, etc.  See OSP Policy 11-01 for further details.

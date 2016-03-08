@@ -1,1 +1,1 @@
-Signed approval form required when costs normally charged as indirect will be included in the direct costs of the budget.  See OSP Website to access form.
+Administrative Costs include items such as office supplies, postage or administrative staff that would normally be included in the Indirect Costs.  See VT Policy 3240.
