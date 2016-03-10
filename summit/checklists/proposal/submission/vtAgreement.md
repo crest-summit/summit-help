@@ -1,0 +1,1 @@
+VT has several examples of the terms and conditions VT would accept in a funding agreement from the sponsor. Which agreement to use depends upon the type of work.  VT can send it signed and ready for award or as a sample of terms to be negotiated.

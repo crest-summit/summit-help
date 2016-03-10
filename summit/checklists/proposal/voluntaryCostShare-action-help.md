@@ -1,0 +1,1 @@
+Proposal Team must obtain OSP Management Approval by justifying why VT is Cost Sharing when not Required by the Sponsor  Include Justification in comments and OSP will review and approve as necessary.

@@ -1,1 +1,1 @@
-Proposal Team Member - Go to the OSP website and download the Form B - Cost Accounting Exception. Complete the form and attach to this checklist item.
+Proposal Team Member must justify all Administrative Costs on the OSP Form B located at http://osp.vt.edu/sites/osp.vt.edu/files/form-b.docx and upload the completed form. 

@@ -1,1 +1,1 @@
-Proposal Team Member - Go to the OSP website and download the Form C - Special Distribution of Overhead. Complete the form and attach to this checklist item.
+Proposal Team Member must describe the Special Indirect Distribution using the OSP Form C located at http://osp.vt.edu/sites/osp.vt.edu/files/form_c_12_18_06.doc and upload the completed form. 
