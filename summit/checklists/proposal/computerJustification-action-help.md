@@ -1,4 +1,4 @@
-Proposal Team - please attach a document answering these questions.
+Proposal Team - please answer these questions in the comments.
 
 1. How is the computer necessary to fulfill the project's scope of work?
 
