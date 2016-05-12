@@ -3,4 +3,4 @@
 - Pre-Proposal: A statement of work and/or budget sent to the Sponsor before a Proposal that does not result in an award.
 - Proposal: A full statement of work and budget sent to the Sponsor that may result in an award.
 - Revision: An update to an existing item before an award has been issued.
-- Other: Communication to a Sponsor regarding an awarded proposal such as a rebudget, or request for supplement, continuation or renewal.
+- Other: New work associated with a previous award  such as a supplement, continuation or renewal.
