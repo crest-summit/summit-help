@@ -1,0 +1,1 @@
+Choosing this option will include all data from Submission Information section, all status of checklist items (--, n/a or required), clear completed status and put back to required, all comments & documents in Submission Requirements, and any added requirements.

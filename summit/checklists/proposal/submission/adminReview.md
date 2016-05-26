@@ -1,0 +1,1 @@
+This proposal is in Administrative Review Status and cannot be submitted until OSP Management has approved.  See OSP Policy 10-01 (http://osp.vt.edu/sites/osp.vt.edu/files/osp-10-01-guidelines-for-timely-proposal-submission.pdf) for details.
