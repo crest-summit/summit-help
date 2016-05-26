@@ -1,4 +1,4 @@
-A description of the type of work being done:
+A description of the type of work being advanced.  Only the applicable options will be available:
 - White Paper: A statement of work sent to the Sponsor that will not result in an award until a Proposal has been submitted.
 - Letter of Intent: Notice to the Sponsor of intent to submit a Proposal.
 - Pre-Proposal: A statement of work and/or budget sent to the Sponsor before a Proposal that does not result in an award.

@@ -1,0 +1,1 @@
+This section is created once the proposal has been submitted for routing.  It contains a lists all orgs that in the approval chain and if the org has approved the proposal or if it is still pending a decision.
