@@ -1,1 +1,1 @@
-Sum of credit for all Proposal Team Memebers.  Must be exactly 100%.
+Sum of credit for all Proposal Team members.  Must be exactly 100%.
