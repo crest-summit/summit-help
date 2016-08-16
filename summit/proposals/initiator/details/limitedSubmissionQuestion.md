@@ -1,1 +1,1 @@
-A Sponsor requirement that only a certain number of proposals may be submitted from or will be awarded to a single entity.  OVPR manages all limited submissions For further information visit https://secure.research.vt.edu/ltdsubs/
+A Sponsor requirement that only a certain number of proposals may be submitted from or will be awarded to a single entity.  OVPRI manages all limited submissions For further information visit https://secure.research.vt.edu/ltdsubs/
