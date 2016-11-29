@@ -1,1 +1,1 @@
-The VT 6 digit organization number under which a specific Proposal Team member is submitting the proposal.  This does not need to correspond to Home Org or Submitting Org.
+The VT 6 digit organization number under which a specific Proposal Team member is submitting the proposal. The field will automatically populate with the Home Org unless a Default Research Organization has been indicated in the person's preferences. This does not need to correspond to Home Org or Submitting Org.
