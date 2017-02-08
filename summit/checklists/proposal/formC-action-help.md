@@ -1,1 +1,1 @@
-Proposal Team Member must describe the Special Indirect Distribution using the [OSP Form C] (http://osp.vt.edu/content/dam/osp_vt_edu/forms/pre-award/form_c_12_18_06.doc) and upload the completed form.
+Proposal Team Member must describe the Special Indirect Distribution using the [OSP Form C](http://osp.vt.edu/content/dam/osp_vt_edu/forms/pre-award/form_c_12_18_06.doc) and upload the completed form.
