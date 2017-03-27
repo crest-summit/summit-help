@@ -1,3 +1,3 @@
 Proposal Team-please answer these questions in the comments:
-1.	What specific costs will be budgeted for participant support costs?
-2.	Please confirm there will NOT be any salary, fringes, travel, or other costs for any VT employees.
+1.	What are the specific costs for each item budgeted in the Participant Support category?
+2.	Are any salary, fringes, travel, or other costs for VT employees included in this Participant Support Budget?
