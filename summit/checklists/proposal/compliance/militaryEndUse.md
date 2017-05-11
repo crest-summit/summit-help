@@ -1,0 +1,1 @@
+The end use application is a significant factor is determining the export control classification of products and technologies.  Research that is specially designed for military, space, intelligence or nuclear applications tends to have a more restrictive export classification than research that has predominant commercial/civilian applications.

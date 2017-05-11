@@ -1,1 +1,1 @@
-This is a test for adding action help to a Yes/No checklist item.
+Proposal Team - please provide a description of the items to be exported and country of destination in the comments.
