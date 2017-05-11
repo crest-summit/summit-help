@@ -1,2 +1,1 @@
-- International Organizations: Any foreign corporation, business association, partnership, trust, society or any other entity or group that is not incorporated or organized to do business in the United States, as well as foreign governments and any agency or subdivision of foreign governments (e.g., diplomatic missions).
-- Foreign National: Any person who is not a U.S. Citizen, lawful permanent resident or protected individual (refugee, granted asylum, etc.).
+Foreign National: Any person who is not a U.S. Citizen, lawful permanent resident or protected individual (refugee, granted asylum, etc.).

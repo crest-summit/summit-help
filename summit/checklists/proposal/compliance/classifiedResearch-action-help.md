@@ -1,0 +1,1 @@
+If any documents associated with proposal contain classified or controlled unclassified information, do NOT upload the document into Summit.  OESRC will work with OSP and Proposal Team to ensure proper safeguarding and submission requirements are met.
