@@ -1,1 +1,1 @@
-Pre-Award Associate must notify the COI Office by emailing lbucy@vt.edu, vratcliffe@vt.edu, and qsteen@vt.edu with the information about this proposal.
+Pre-Award Associate must submit COI Notification to COI Office via [online form](http://tinyurl.com/y9w6qcce).
