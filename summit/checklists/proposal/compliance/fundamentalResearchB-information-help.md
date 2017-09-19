@@ -1,1 +1,1 @@
-Information help for OESRC Attachment B goes here.
+Review the [Attachment B: Memo to Faculty Proposing Research Funded by NASA](https://www.oesrc.researchcompliance.vt.edu/sites/oesrc.researchcompliance.vt.edu/files/attachment_b_nasa_memo.pdf). If this work is Fundamental Research as defined in Attachment B, then answer Yes to this question.  If you have questions regarding the Restrictions on Funding Activities in China, use the comments to communicate with your Pre Award Associate.
