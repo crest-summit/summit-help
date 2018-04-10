@@ -1,1 +1,1 @@
-Type here to search the list by PI, Sponsor, Assigned Pre-Award Administrator, Proposal Creator, Proposal Label, Submitting Organization Number, and Department Name
+Type here to search the work items by PI, Sponsor, Assigned Pre-Award Associate, Creator, ID, Label, and Submitting Organization Number and Name
