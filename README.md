@@ -5,7 +5,7 @@ This project contains contextual help for the Summit research administration app
 
 Files in this project are organized in a hierarchical folder structure that roughly corresponds to the UI structure within the Summit application.
 
-Folder and files names use *camel-case* conventions.
+Folder and files names use *camelCase* conventions.
 * The first letter of each name is a lower-case letter.
 * Every whole word after the first word has an upper-case first letter.
 
