@@ -8,8 +8,8 @@ Timing of approval: The majority of IACUC protocols receive approval within four
 
 Release of funds requirement: Grant-related funds may not be released until proof of IACUC approval is provided to the OSP. In addition, activities involving vertebrate animals may not commence without prior IACUC approval. Some funding agencies require an IACUC approval letter earlier in the proposal process; therefore, please plan accordingly.
 
-Training requirements: All investigators (and research personnel who will interact with vertebrate animals) must complete IACUC training (view requirements) prior to the submittal of an IACUC protocol for approval.
+Training requirements: All investigators (and research personnel who will interact with vertebrate animals) must complete IACUC training [view requirements](https://www.research.vt.edu/iacuc/training.html) prior to the submittal of an IACUC protocol for approval.
 
-Learn more or apply: Please visit the IACUC website
+Learn more or apply: Please visit the [IACUC website](https://www.research.vt.edu/iacuc.html)
 
-Questions? Email iacucadmin@vt.edu or call (540) 231-0931
+Questions? Email [iacucadmin@vt.edu](iacucadmin@vt.edu) or call (540) 231-0931
