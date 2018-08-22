@@ -8,7 +8,7 @@
 
 <i><b>Release of funds requirement:</b></i> Grant-related funds may not be released until proof of IACUC approval is provided to the OSP. In addition, activities involving vertebrate animals may not commence without prior IACUC approval. Some funding agencies require an IACUC approval letter earlier in the proposal process; therefore, please plan accordingly.
 
-<i><b>Training requirements:</b></i> All investigators (and research personnel who will interact with vertebrate animals) must complete IACUC training [view requirements](https://www.research.vt.edu/iacuc/training.html) prior to the submittal of an IACUC protocol for approval.
+<i><b>Training requirements:</b></i> All investigators (and research personnel who will interact with vertebrate animals) must complete IACUC training ([view requirements](https://www.research.vt.edu/iacuc/training.html)) prior to the submittal of an IACUC protocol for approval.
 
 <i><b>Learn more or apply:</b></i> Please visit the [IACUC website](https://www.research.vt.edu/iacuc.html)
 
