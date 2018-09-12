@@ -1,1 +1,1 @@
-For all subcontractors the subrecipient data form can be found here (http://osp.vt.edu/content/dam/osp_vt_edu/forms/pre-award/SubRecipient_DataSheet.pdf) needs to be reviewed, completed, and signed by the subcontractor's authorized official representative.
+For all subcontractors the subrecipient data form can be found by clicking [here](https://osp.vt.edu/content/dam/osp_vt_edu/forms/pre-award/SubRecipient%20DataSheet.pdf). The form needs to be reviewed, completed, and signed by the subcontractor's authorized official representative.
