@@ -1,1 +1,1 @@
-For all subcontractors on PHS proposals, the FCOI form found here (http://osp.vt.edu/content/dam/osp_vt_edu/forms/coi/external-entity-fcoi-certification_phsfft-phs.docx) needs to be reviewed, completed, and signed by the subcontractor's authorized official representative.
+For all subcontractors on PHS proposals, the FCOI form found by clicking [here](http://osp.vt.edu/content/dam/osp_vt_edu/forms/coi/external-entity-fcoi-certification_phsfft-phs.docx).  The form needs to be reviewed, completed, and signed by the subcontractor's authorized official representative.
