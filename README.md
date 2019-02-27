@@ -1,3 +1,5 @@
+# Deprecated on 02/27/2019. Do not use.
+
 summit-help
 ===========
 
